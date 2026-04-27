@@ -1,5 +1,5 @@
-# ☺️ Hello everyone!
-- 👋 My name is Albert and I'm 16 y/o.
-- 🏫 Studying at high school.
+# ☺️ Hi everyone!
+- 👋 My name is Albert and I'm 19 y/o.
+- 🏫 Studying Computer Engineering at Polytechnic University of València (UPV).
 - 💻 Planning to become a computer engineer.
-- 🗣️ I speak Spanish and English.
+- 🗣️ Speaking Spanish and English 
